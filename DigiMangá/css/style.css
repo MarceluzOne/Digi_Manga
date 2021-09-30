@@ -1,0 +1,64 @@
+body{
+   
+    background-color: gray;
+}
+li, h3, p{
+    font-family: 'Kaisei HarunoUmi', serif;
+    font-weight: bold;
+   
+}
+.rodape{
+    font-family: 'Kaisei HarunoUmi', serif;
+    font-weight: bold;
+    text-align: justify;
+    font-size: 15px;
+    margin-top: 80px;
+}
+.principal{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.topo{
+    mask-position: top  ;
+    width:1360px;
+}
+.manga{
+   
+    padding-bottom: 50px;
+}
+.grande:hover{
+    transform: scale(1.3)
+}
+.orientacao{
+    margin-top: 25px;
+}
+.botton{
+    margin-top: 10px;
+    margin:center;
+    
+}
+.pergunta{
+    font-weight: bold;
+    margin-top: 15px;
+    font-size: 20px;
+}
+.resposta{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.contato{
+    font-weight: bolder;
+}
+.ordem{
+    margin-top: 70px;
+    margin-right: 90px;
+}
+.botao{
+    position:absolute;
+    left: 580px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.capitulo{
+    margin-top:80px;
+}
